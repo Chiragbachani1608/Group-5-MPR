@@ -11,7 +11,7 @@ from weapon import *
 from sound import *
 from pathfinding import *
 
-GAME_NAME = "Shooting game made by Chirag Bachani"
+GAME_NAME = "Steel Sentinel game made by Chirag Bachani"
 
 class Game:
     def __init__(self):
