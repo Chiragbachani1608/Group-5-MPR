@@ -1,4 +1,4 @@
-# Group-5-MPR
+# Steel Sentinel
 This repo consists of shooting game using ray casting method
 Basic shooting game with one weapon infinte ammo
 SCREEN SHOT:
