@@ -11,7 +11,7 @@ from weapon import *
 from sound import *
 from pathfinding import *
 #In the run() method, the StartScreen is displayed first. Once the user presses any key, the game loop starts, where the user input events are checked in the check_events() method, and the game objects are updated and rendered in the update() and draw() methods, respectively. This loop continues until the player quits the game or presses the ESC key.
-GAME_NAME = "Shooting game made by Chirag Bachani"
+GAME_NAME = "Steel Sentinel game made by Chirag Bachani"
 
 class StartScreen:
     def __init__(self, screen):
